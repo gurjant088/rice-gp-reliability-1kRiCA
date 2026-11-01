@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the original data source."
+title: "How reliable is genomic prediction within a rice breeding programme? Across-family accuracy, explainable AI and conformal prediction intervals with 1k-RiCA SNP data"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+date-released: 2026-11-01
+version: "1.0.0"
+license: MIT
+references:
+  - type: article
+    title: "1k-RiCA (1K-Rice Custom Amplicon) a novel genotyping amplicon-based SNP assay for genetics and breeding applications in rice"
+    authors:
+      - family-names: "Arbelaez"
+        given-names: "J. D."
+    journal: "Rice"
+    volume: 12
+    start: 55
+    year: 2019
+    doi: "10.1186/s12284-019-0311-0"
